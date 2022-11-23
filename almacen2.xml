@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<almacen>
+    <producto categoria="mouse" marca="Logitech">
+        <nombre>Inalambrico C50</nombre>
+        <precio>20000</precio>
+    </producto>
+    <producto categoria="monitor" marca="Acer">
+        <nombre>Monitor Acer V173</nombre>
+        <precio>200000</precio>
+    </producto>
+</almacen>
